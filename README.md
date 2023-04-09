@@ -11,7 +11,7 @@ The analysis of hotel booking cancellations as well as other factors that have n
 
 ## Hypothesis
 
-1. More cancellations happen when the prices are higher.
+1. More cancellations occur when the prices are higher.
 2. Longer waiting time leads customers to cancel bookings more frequently.
 3. The majority of clients are coming from offline travel agents to make their
 reservations.
