@@ -24,4 +24,4 @@ reservations.
 4. To lower the cancellation rate, they might also improve the quality of their accommodations and services, particularly in Portugal.
 
 
-## For complete Analysis and visualization please refer to the code attached.
+## -- For complete Analysis and visualization please refer to the code attached.
